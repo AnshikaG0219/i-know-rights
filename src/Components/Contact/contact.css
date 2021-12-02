@@ -1,0 +1,32 @@
+.contact {
+  background-image: linear-gradient(90deg, #293039 50%, #97f1ea 50%);
+  width: 100%;
+  height: 90vh;
+  position: relative;
+}
+.contact-row{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-img{
+  width: 60%;
+  margin: 6vw auto;
+}
+.contactCard {
+  background-color: white;
+  /* height: 80%; */
+  width: 50vw;
+  position: absolute;
+  right: 3rem;
+  text-align: center;
+}
+@media screen and (max-width: 1024px) {
+  .contact{
+    height: auto;
+  }
+  .contactCard {
+    width: 70%;
+  }
+}
