@@ -12,3 +12,9 @@
 - [Lato](https://fonts.google.com/specimen/Lato#standard-styles)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) 
 - [Raleway](https://fonts.google.com/specimen/Raleway)
+
+### Contributors
+1. Anshika Gautam
+2. Ishita Chandra
+3. Shreya Mittal
+4. Sanya Bansal
